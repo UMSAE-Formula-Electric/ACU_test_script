@@ -65,8 +65,6 @@ void Error_Handler(void);
 #define OSC2_IN_GPIO_Port GPIOH
 #define OSC2_OUT_Pin GPIO_PIN_1
 #define OSC2_OUT_GPIO_Port GPIOH
-#define vBATT_Pin GPIO_PIN_2
-#define vBATT_GPIO_Port GPIOC
 #define PUMP_FB_Pin GPIO_PIN_3
 #define PUMP_FB_GPIO_Port GPIOC
 #define FANS_FB_Pin GPIO_PIN_0
